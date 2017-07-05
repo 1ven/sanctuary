@@ -11,7 +11,7 @@
     "test": "make lint test"
   },
   "dependencies": {
-    "sanctuary-def": "0.12.1",
+    "sanctuary-def": "sanctuary-js/sanctuary-def#e0ff39d44ecf77b13985df6c1f370908f74f9bc6",
     "sanctuary-type-classes": "6.0.0",
     "sanctuary-type-identifiers": "2.0.1"
   },
